@@ -1,1 +1,2 @@
 I'm testing the branch function.
+Creating a new branch feature1.
